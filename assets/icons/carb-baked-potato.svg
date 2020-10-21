@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="88px" viewBox="0 0 103 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>carb-baked-potato</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="carb-baked-potato" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(19.000000, 14.000000)" stroke="#000000" stroke-width="2">
+            <ellipse id="Oval-6" fill="#81490A" transform="translate(33.000000, 30.500000) rotate(-34.000000) translate(-33.000000, -30.500000) " cx="33" cy="30.5" rx="27" ry="18.5"></ellipse>
+            <path d="M16,39 C30.1789904,31.8887701 39.8456571,24.4380565 45,16.6478592 C38.1563692,15.0061498 32.1444036,16.6738702 27.5452621,19.5262416 C23.7969094,21.8509568 19.9484887,28.3422096 16,39 Z" id="Path-15" fill="#FFFB76"></path>
+        </g>
+    </g>
+</svg>
